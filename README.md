@@ -25,4 +25,5 @@ the templateLoader.js, were you have to specify what templates should be loaded.
 <p>As i wrote, it is realy easy, but i couldn't find that solution anywhere on the internet,
 so i thought i should fork a little example for beginners and anyone who has the same problem
 as i had.</p>
+<p>I can not guarantee that it is a good solution, but for me it worked perfectly.</p>
 <p>Have fun with it!</p>
